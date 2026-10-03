@@ -1,0 +1,101 @@
+[
+  {
+    "id": "BK-001",
+    "nombre": "Cerveza Cristal 650ml",
+    "marca": "Cristal",
+    "categoria": "Cerveza",
+    "presentacion": "Caja x 12 botellas retornables",
+    "precio": 68.50,
+    "stock": 140,
+    "icono": "🍺",
+    "destacado": true
+  },
+  {
+    "id": "BK-002",
+    "nombre": "Cristal Six Pack Lata 355ml",
+    "marca": "Cristal",
+    "categoria": "Cerveza",
+    "presentacion": "Pack x 6 latas",
+    "precio": 27.90,
+    "stock": 85,
+    "icono": "🥫",
+    "destacado": false
+  },
+  {
+    "id": "BK-003",
+    "nombre": "Pilsen Callao 630ml",
+    "marca": "Pilsen",
+    "categoria": "Cerveza",
+    "presentacion": "Caja x 12 botellas retornables",
+    "precio": 72.00,
+    "stock": 110,
+    "icono": "🍺",
+    "destacado": true
+  },
+  {
+    "id": "BK-004",
+    "nombre": "Pilsen Callao Lata 355ml",
+    "marca": "Pilsen",
+    "categoria": "Cerveza",
+    "presentacion": "Pack x 6 latas",
+    "precio": 29.50,
+    "stock": 90,
+    "icono": "🥫",
+    "destacado": false
+  },
+  {
+    "id": "BK-005",
+    "nombre": "Cusqueña Dorada 620ml",
+    "marca": "Cusqueña",
+    "categoria": "Premium",
+    "presentacion": "Caja x 12 botellas retornables",
+    "precio": 84.00,
+    "stock": 65,
+    "icono": "👑",
+    "destacado": true
+  },
+  {
+    "id": "BK-006",
+    "nombre": "Cusqueña Trigo 620ml",
+    "marca": "Cusqueña",
+    "categoria": "Premium",
+    "presentacion": "Caja x 12 botellas",
+    "precio": 88.00,
+    "stock": 45,
+    "icono": "🌾",
+    "destacado": false
+  },
+  {
+    "id": "BK-007",
+    "nombre": "Cusqueña Negra 620ml",
+    "marca": "Cusqueña",
+    "categoria": "Premium",
+    "presentacion": "Caja x 12 botellas",
+    "precio": 88.00,
+    "stock": 40,
+    "icono": "🌑",
+    "destacado": false
+  },
+  {
+    "id": "BK-008",
+    "nombre": "Agua Mineral San Mateo 600ml",
+    "marca": "San Mateo",
+    "categoria": "Aguas",
+    "presentacion": "Paquete x 15 botellas pet",
+    "precio": 32.00,
+    "stock": 120,
+    "icono": "💧",
+    "destacado": false
+  },
+  {
+    "id": "BK-009",
+    "nombre": "Pilsen Trujillo 650ml",
+    "marca": "Pilsen",
+    "categoria": "Cerveza",
+    "presentacion": "Caja x 12 botellas retornables",
+    "precio": 66.00,
+    "stock": 70,
+    "icono": "🍺",
+    "destacado": false
+  }
+]
